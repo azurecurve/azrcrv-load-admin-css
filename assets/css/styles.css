@@ -1,0 +1,40 @@
+div.azrcrv-spg-form{
+	width:80%;
+	max-width:550px;
+	margin:auto;
+}
+div.azrcrv-spg-error, div.azrcrv-spg-success{
+	width: 100%;
+	background-color: white;
+	color: black;
+	padding: 6px 6px 6px 12px;
+	margin-bottom: 6px;
+	border: 1px solid #6A6C6E;
+}
+div.azrcrv-spg-error{
+	border-left: 5px solid #FF0000;
+}
+div.azrcrv-spg-success{
+	border-left: 5px solid #008000;
+}
+input.azrcrv-spg-visible{
+	display: none;
+	visibility: hidden;
+}
+table.azrcrv-spg thead th {
+	width: 30%;
+}
+table.azrcrv-spg tbody td {
+	width: 70%;
+}
+p.azrcrv-spg{
+}
+table.azrcrv-spg-password thead th {
+	background-color: #007fff;
+	color: #fff;
+}
+table.azrcrv-spg-password tbody tr:nth-child(odd) {
+	background-color: #ebf5ff;
+}
+table.azrcrv-spg-password tbody tr:nth-child(even) {
+}

@@ -1,5 +1,25 @@
-# [Load Admin CSS](https://development.azurecurve.co.uk/classicpress-plugins/load-admin-css/)
-![Plugin Banner](/assets/pluginimages/banner-1544x500.png)
+=== Load Admin CSS ===
+
+Description:	Change the styling of your admin dashboard with custom CSS.
+Version:		1.0.0
+Tags:			admin,css
+Author:			azurecurve
+Author URI:		https://development.azurecurve.co.uk/classicpress-plugins/
+Contributors:	azurecurve
+Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/load-admin-css/
+Download link:	https://github.com/azurecurve/azrcrv-load-admin-css/releases/download/v1.0.0/azrcrv-load-admin-css.zip
+Donate link:	https://development.azurecurve.co.uk/support-development/
+Requires PHP:	5.6
+Requires:		1.0.0
+Tested:			4.9.99
+Text Domain:	azrcrv-rlm
+Domain Path:	/languages
+License: 		GPLv2 or later
+License URI: 	http://www.gnu.org/licenses/gpl-2.0.html
+
+Change the styling of your admin dashboard with custom CSS.
+
+== Description ==
 
 # Description
 
@@ -16,12 +36,7 @@ textarea.wp-editor-area{
 
 This plugin is multisite compatible, with options set on a per site basis.
 
-Example shortcode usage:
-```
-[strong-password-generator id="password-1"  text-before="The password generator below can be used to produce passwords compatible with Microsoft Dynamics GP." allow-symbols=1]
-```
-
-This plugin is multisite compatible, with options set on a per site basis.
+== Installation ==
 
 # Installation Instructions
 
@@ -30,6 +45,25 @@ To install the plugin:
  * Upload the entire zip file using the Plugins upload function in your ClassicPress admin panel.
  * Activate the plugin.
  * Configure relevant settings via the configuration page in the admin control panel (azurecurve menu).
+
+== Frequently Asked Questions ==
+
+# Frequently Asked Questions
+
+### Can I translate this plugin?
+ * Yes, the .pot file is in the plugins languages folder and can also be downloaded from the plugin page on [azurecurve | Development](https://development.azurecurve.co.uk/classicpress-plugins/); if you do translate this plugin, please sent the .po and .mo files to translations@azurecurve.co.uk for inclusion in the next version (full credit will be given).
+
+### Is this plugin compatible with both WordPress and ClassicPress?
+ * This plugin is developed for ClassicPress, but will likely work on WordPress.
+
+== Changelog ==
+
+# Changelog
+
+### [Version 1.0.0](https://github.com/azurecurve/azrcrv-load-admin-css/releases/v1.0.0)
+ * Initial release.
+
+== Other Notes ==
 
 # About azurecurve
 

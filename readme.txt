@@ -1,13 +1,13 @@
 === Load Admin CSS ===
 
 Description:	Change the styling of your admin dashboard with custom CSS.
-Version:		1.0.0
+Version:		1.0.2
 Tags:			admin,css
 Author:			azurecurve
 Author URI:		https://development.azurecurve.co.uk/classicpress-plugins/
 Contributors:	azurecurve
 Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/load-admin-css/
-Download link:	https://github.com/azurecurve/azrcrv-load-admin-css/releases/download/v1.0.0/azrcrv-load-admin-css.zip
+Download link:	https://github.com/azurecurve/azrcrv-load-admin-css/releases/download/v1.0.2/azrcrv-load-admin-css.zip
 Donate link:	https://development.azurecurve.co.uk/support-development/
 Requires PHP:	5.6
 Requires:		1.0.0
@@ -60,6 +60,15 @@ To install the plugin:
 
 # Changelog
 
+### [Version 1.0.2](https://github.com/azurecurve/azrcrv-load-admin-css/releases/v1.0.2)
+ * Remove incorrect language translation.
+ * Add correct language translation.
+ 
+### [Version 1.0.1](https://github.com/azurecurve/azrcrv-load-admin-css/releases/v1.0.1)
+ * Update readme files.
+ * Update language template.
+ * Fix bug with azurecurve menu.
+ 
 ### [Version 1.0.0](https://github.com/azurecurve/azrcrv-load-admin-css/releases/v1.0.0)
  * Initial release.
 
@@ -67,7 +76,7 @@ To install the plugin:
 
 # About azurecurve
 
-**azurecurve** was one of the first plugin developers to start developing for Classicpress; all plugins are available from [azurecurve Development](https://development.azurecurve.co.uk/classicpress-plugins/) and are integrated with the [Update Manager plugin](https://codepotent.com/classicpress/plugins/update-manager/) for fully integrated, no hassle, updates.
+**azurecurve** was one of the first plugin developers to start developing for ClassicPress; all plugins are available from [azurecurve Development](https://development.azurecurve.co.uk/classicpress-plugins/) and are integrated with the [Update Manager plugin](https://codepotent.com/classicpress/plugins/update-manager/) for fully integrated, no hassle, updates.
 
 The other plugins available from **azurecurve** are:
  * Add Open Graph Tags - [details](https://development.azurecurve.co.uk/classicpress-plugins/add-open-graph-tags/) / [download](https://github.com/azurecurve/azrcrv-add-open-graph-tags/releases/latest/)
@@ -124,3 +133,4 @@ The other plugins available from **azurecurve** are:
  * URL Shortener - [details](https://development.azurecurve.co.uk/classicpress-plugins/url-shortener/) / [download](https://github.com/azurecurve/azrcrv-url-shortener/releases/latest/)
  * Username Protection - [details](https://development.azurecurve.co.uk/classicpress-plugins/username-protection/) / [download](https://github.com/azurecurve/azrcrv-username-protection/releases/latest/)
  * Widget Announcements - [details](https://development.azurecurve.co.uk/classicpress-plugins/widget-announcements/) / [download](https://github.com/azurecurve/azrcrv-widget-announcements/releases/latest/)
+ 

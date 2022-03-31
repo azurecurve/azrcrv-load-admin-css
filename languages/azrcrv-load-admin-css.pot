@@ -1,0 +1,120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Load Admin CSS\n"
+"POT-Creation-Date: 2022-03-31 17:33+0100\n"
+"PO-Revision-Date: 2019-02-24 18:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: translate@azurecurve.co.uk\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: azrcrv-load-admin-css.php:198
+msgid "Settings"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:214
+msgid "Load Admin CSS Settings"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:215
+msgid "Load Admin CSS"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:240
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: azrcrv-load-admin-css.php:262
+msgid "Settings have been saved."
+msgstr ""
+
+#: azrcrv-load-admin-css.php:266
+msgid "Load Admin CSS Options"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:273
+msgid "Enable"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:281
+msgid "Enable internal css."
+msgstr ""
+
+#: azrcrv-load-admin-css.php:291
+msgid "CSS"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:301
+msgid "Internal CSS"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:315
+msgid "Instructions"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:322
+msgid "Shortcode Usage"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:333
+#, php-format
+msgid "Internal CSS can be enabled and defined on the %s tab."
+msgstr ""
+
+#: azrcrv-load-admin-css.php:335
+msgid "An example piece of CSS for changing the font-size of the standard ClassicPress admin textarea is:"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:369
+msgid "Other Plugins"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:377
+#, php-format
+msgid "%1$s was one of the first plugin developers to start developing for ClassicPress; all plugins are available from %2$s and are integrated with the %3$s plugin for fully integrated, no hassle, updates."
+msgstr ""
+
+#: azrcrv-load-admin-css.php:380
+#, php-format
+msgid "Other plugins available from %s are:"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:448
+msgid "Save Settings"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:452
+msgid "Support"
+msgstr ""
+
+#: azrcrv-load-admin-css.php:463
+msgid "You can help support the development of our free plugins by donating a small amount of money."
+msgstr ""
+
+#: azrcrv-load-admin-css.php:489
+msgid "You do not have permissions to perform this action"
+msgstr ""
+
+#: libraries/updateclient/UpdateClient.class.php:191
+msgid "Compatible up to:"
+msgstr ""
+
+#: libraries/updateclient/UpdateClient.class.php:192
+msgid "Reviews"
+msgstr ""
+
+#: libraries/updateclient/UpdateClient.class.php:193
+msgid "Read all reviews"
+msgstr ""
+
+#: libraries/updateclient/UpdateClient.class.php:383
+msgid "View details"
+msgstr ""

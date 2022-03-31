@@ -3,7 +3,7 @@
  * ------------------------------------------------------------------------------
  * Plugin Name: Load Admin CSS
  * Description: Change the styling of your admin dashboard with custom CSS.
- * Version: 1.0.0
+ * Version: 1.0.2
  * Author: azurecurve
  * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
  * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/link-managements/
@@ -374,7 +374,7 @@ function display_options() {
 						<td scope="row" colspan=2>
 						
 							<p>' .
-								sprintf( esc_html__( '%1$s was one of the first plugin developers to start developing for Classicpress; all plugins are available from %2$s and are integrated with the %3$s plugin for fully integrated, no hassle, updates.', 'azrcrv-lacss' ), '<strong>azurecurve | Development</strong>', '<a href="https://development.azurecurve.co.uk/classicpress-plugins/">azurecurve | Development</a>', '<a href="https://directory.classicpress.net/plugins/update-manager/">Update Manager</a>' )
+								sprintf( esc_html__( '%1$s was one of the first plugin developers to start developing for ClassicPress; all plugins are available from %2$s and are integrated with the %3$s plugin for fully integrated, no hassle, updates.', 'azrcrv-lacss' ), '<strong>azurecurve | Development</strong>', '<a href="https://development.azurecurve.co.uk/classicpress-plugins/">azurecurve | Development</a>', '<a href="https://directory.classicpress.net/plugins/update-manager/">Update Manager</a>' )
 							. '</p>
 							<p>' .
 								sprintf( esc_html__( 'Other plugins available from %s are:', 'azrcrv-lacss' ), '<strong>azurecurve | Development</strong>' )

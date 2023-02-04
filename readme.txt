@@ -1,15 +1,16 @@
 === Load Admin CSS ===
 
 Description:	Change the styling of your admin dashboard with custom CSS.
-Version:		1.0.2
+Version:		1.0.3
 Tags:			admin,css
 Author:			azurecurve
 Author URI:		https://development.azurecurve.co.uk/classicpress-plugins/
 Contributors:	azurecurve
 Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/load-admin-css/
-Download link:	https://github.com/azurecurve/azrcrv-load-admin-css/releases/download/v1.0.2/azrcrv-load-admin-css.zip
+Download link:	https://github.com/azurecurve/azrcrv-load-admin-css/releases/download/v1.0.3/azrcrv-load-admin-css.zip
 Donate link:	https://development.azurecurve.co.uk/support-development/
 Requires PHP:	5.6
+Requires CP:	1.0
 Requires:		1.0.0
 Tested:			4.9.99
 Text Domain:	azrcrv-rlm
@@ -60,6 +61,9 @@ To install the plugin:
 
 # Changelog
 
+### [Version 1.0.3](https://github.com/azurecurve/azrcrv-load-admin-css/releases/v1.0.3)
+ * Update readme file for compatibility with ClassicPress Directory.
+ 
 ### [Version 1.0.2](https://github.com/azurecurve/azrcrv-load-admin-css/releases/v1.0.2)
  * Remove incorrect language translation.
  * Add correct language translation.

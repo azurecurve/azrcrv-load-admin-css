@@ -1,14 +1,18 @@
 <?php
 /**
  * ------------------------------------------------------------------------------
- * Plugin Name: Load Admin CSS
- * Description: Change the styling of your admin dashboard with custom CSS.
- * Version: 1.0.3
- * Author: azurecurve
- * Author URI: https://development.azurecurve.co.uk/classicpress-plugins/
- * Plugin URI: https://development.azurecurve.co.uk/classicpress-plugins/link-managements/
- * Text Domain: azrcrv-lacss
- * Domain Path: /languages
+ * Plugin Name:		Load Admin CSS
+ * Description:		Change the styling of your admin dashboard with custom CSS.
+ * Version:			1.0.4
+ * Requires CP:		1.0
+ * Author:			azurecurve
+ * Author URI:		https://development.azurecurve.co.uk/classicpress-plugins/
+ * Plugin URI:		https://development.azurecurve.co.uk/classicpress-plugins/link-managements/
+ * Donate link:		https://development.azurecurve.co.uk/support-development/
+ * Text Domain:		azrcrv-lacss
+ * Domain Path:		/languages
+ * License:			GPLv2 or later
+ * License URI:		http://www.gnu.org/licenses/gpl-2.0.html
  * ------------------------------------------------------------------------------
  * This is free software released under the terms of the General Public License,
  * version 2, or later. It is distributed WITHOUT ANY WARRANTY; without even the
